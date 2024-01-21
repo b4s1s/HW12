@@ -72,7 +72,7 @@ h3 {
 h2 {
 	font-size: 38px;
 	font-weight: 700;
-	line-height: 1;
+	line-height: normal;
 	background: var(--Gradient-Red-Text, linear-gradient(90deg, #F0145A 0.84%, #EF8080 99.96%));
 	background-clip: text;
 	-webkit-background-clip: text;
